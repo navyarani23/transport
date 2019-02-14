@@ -1,3 +1,3 @@
 FROM tomcat
-ADD /target/transport.jar /usr/local/tomcat/webapps
+ADD /target/transport-1.2.jar /usr/local/tomcat/webapps
 
